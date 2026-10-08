@@ -4,6 +4,7 @@ A two-part research exploration covering LLM technical mechanics (RNNs to Transf
 
  
 **Author:** Satya Vipul Akarapu 
+
 **Advisor:** Dr. Yan Zhang  
 
 ---
